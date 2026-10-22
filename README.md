@@ -1,1 +1,1 @@
-# buisness-english-trainer
+# business-english-trainer
